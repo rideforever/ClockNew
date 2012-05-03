@@ -4,7 +4,7 @@ package
 	
 	/**
 	 * ...
-	 * @author 
+	 * @author I am the author
 	 */
 	
 	
