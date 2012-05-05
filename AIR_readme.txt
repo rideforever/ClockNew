@@ -1,5 +1,6 @@
 AIR for desktop instructions
 
+l
 1. Configuration
 
 	- edit 'bat\SetupSDK.bat' for the path to Flex SDK
